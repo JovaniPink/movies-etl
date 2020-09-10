@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project files
+data/3405_6663_bundle_archive/credits.csv
+data/ratings.csv
