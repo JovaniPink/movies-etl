@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 # Project files
+config.py
 /data/3405_6663_bundle_archive/credits.csv
 /data/ratings.csv
